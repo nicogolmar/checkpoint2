@@ -5,7 +5,8 @@
     max-width: 100vw;
     max-height: 100vh;
     
-}   
+}
+   
 .container{
     width: 100%;
     height: 100vh;
@@ -46,7 +47,7 @@
     transform: translateY(-10px);
 }
 
-a {
+a{
     text-decoration: none;
     color:inherit;
 }
